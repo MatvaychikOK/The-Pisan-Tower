@@ -1,0 +1,41 @@
+body {
+	background-color: lightGreen; /*Установка Пизанской башни*/
+}
+
+p {
+	color: Green;
+	font-size: 30px;
+}
+
+p.odd {
+    color:#017a0b;
+}
+
+p.even {
+
+	color:red;
+}
+
+h1 {
+	font-size: 47px;
+	font-family:'Lobster', cursive;
+	color: DarkGreen;
+}
+div {
+	width:80%;
+	margin-left:170px;
+	/*background-color: SkyBlue;*/
+}
+
+h2 {
+	font-size:36px;
+	font-family: 'Verdana';
+	color: Green;
+}
+
+a {
+	display: block;
+	text-decoration: none; 
+	font-weight: bold;
+	font-size: 20px;
+}
