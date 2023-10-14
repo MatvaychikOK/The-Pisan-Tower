@@ -13,7 +13,7 @@ p.odd {
 
 p.even {
 
-	color:red;
+	color:#0f4211;
 }
 
 h1 {
@@ -38,4 +38,8 @@ a {
 	text-decoration: none; 
 	font-weight: bold;
 	font-size: 20px;
+}
+
+a:hover {
+	color: red;
 }
