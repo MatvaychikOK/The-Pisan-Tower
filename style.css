@@ -5,6 +5,7 @@ body {
 p {
 	color: Green;
 	font-size: 30px;
+	text-align: justify;
 }
 
 p.odd {
@@ -42,4 +43,14 @@ a {
 
 a:hover {
 	color: red;
+}
+
+.motion {
+	width: 120px;
+	height: 120px;
+	background-color: steelblue;
+	border-radius: 50%;
+	position: absolute;
+
+	motion-path: path('M 10 10 H 500 V 500 H 10');
 }
